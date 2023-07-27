@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priyank-codes
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning LLMs, Web3.
-- 💞️ I’m looking to collaborate on @langchainjs
+- 💞️ I’m working on @SkillGPT
 - 📫 How to reach me priyank@skillgpt.ai
 
 <!---
